@@ -20,7 +20,7 @@ body {
     width: 200px;
   }
   .text {
-    color: white;
+    color: rgb(242, 234, 234);
     position: absolute;
     transition: opacity 300ms;
     user-select: none;
@@ -31,7 +31,7 @@ body {
     left: -8px;
     opacity: 0;
     position: absolute;
-    stroke: #777;
+    stroke: #686363;
     top: -9px;
     transition: opacity 1ms;
   }
